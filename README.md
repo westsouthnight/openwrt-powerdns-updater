@@ -4,4 +4,4 @@ This placed script which can to update your OpenWRT dynamic public IP address on
 
 # Dependencies on openwrt hosts
 
-* installed curl, - opkg install curl
+* You can see all installed packages on developer device from where that gets follow by [link!](https://github.com/westsouthnight/openwrt-powerdns-updater/blob/master/installed.md)
