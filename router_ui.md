@@ -31,3 +31,18 @@
 * After, select you interface wich have dynamic IP
 
 ![advanced_settings](https://github.com/westsouthnight/openwrt-powerdns-updater/blob/master/docs/images/advanced_settings.png?raw=true?raw=true?raw=true?raw=true)
+
+- Then you can visit Timer Settings page, if wants
+
+![timer_settings](https://github.com/westsouthnight/openwrt-powerdns-updater/blob/master/docs/images/timer_settings.png?raw=true?)
+
+* Click Save and Apply
+
+- After that, system redirect to DDNS Settings page, when you must select "Enabled" checkbox
+
+![done_settings](https://github.com/westsouthnight/openwrt-powerdns-updater/blob/master/docs/images/enable_done.png?raw=true?)
+
+* Click to "Enable" Checkbox
+* Click Save and Apply
+
+## Configuration done, very well result!
