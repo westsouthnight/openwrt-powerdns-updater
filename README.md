@@ -1,7 +1,7 @@
-# openwrt-powerdns-updater
+# OpenWRT-PowerDNS-Updater
 
 This placed script which can to update your OpenWRT dynamic public IP address on your PowerDNS servers
 
-# dependencies on openwrt hosts
+# Dependencies on openwrt hosts
 
-* installed curl
+* installed curl, - opkg install curl
